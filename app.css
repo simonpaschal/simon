@@ -1,0 +1,173 @@
+*{
+font-family: sans-serif;
+}
+
+body,html{
+    background-color: #e5e5e5;
+ margin: 0px;
+ padding: 0px;
+}
+.mainDiv{
+    background-color: whitesmoke;
+}
+
+nav a{
+    text-decoration: none;
+    color: #8d99ae;
+    margin-left: 1rem;
+    display: inline-block;
+}
+nav img{
+    margin:0 0px 0px 1rem;
+    display: inline-block;
+    height: 1.3rem;
+    width: 1.3rem;
+    position: relative;
+    top: 0.5rem;
+
+}
+
+nav{
+ background-color: whitesmoke; 
+ width: 100%; 
+}
+
+.mainPage{
+    padding:5rem 0px 10rem 0px;
+    background-color: whitesmoke;
+}
+
+.google{
+    width: fit-content;
+    font-family:sans-serif;
+    margin: 2rem auto;
+}
+
+.blue{
+    color: blue;
+    font-size: 4rem;
+    display: inline-block;
+    
+}
+.red{
+    color: red;
+    font-size: 4rem;
+}
+.orange{
+    color: orange;
+    font-size: 4rem;
+}
+.blue{
+    color: blue;
+    font-size: 4rem;
+}
+.green{
+color: green;
+font-size: 4rem;
+}
+
+.red{
+    color: red;
+    font-size: 4rem;
+}
+.container{
+    margin: 0px auto;
+    border:  1p solid red;
+    width: 45rem;
+}
+.search{
+    width: 35rem;
+    height: 50px;
+    border-radius: 20px;
+    display: inline-block;
+}
+.icon{
+    width:2rem;
+    height: 2rem;
+    position:relative;
+    right: -6rem;
+    display: inline-block;
+}
+.icon2{
+    width:2rem;
+    height: 2rem;
+    position:relative;
+    right: -34rem;
+    display: inline-block;
+}
+section{
+    display: flex;
+    padding-top: 3rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.leftDiv{
+    padding: 5px;
+    margin: 10px;
+    background-color: #e5e5e5;
+    border-radius: 0.2em;
+}
+
+.RightDiv{
+    padding: 5px;
+    margin: 10px;
+    background-color: #e5e5e5;
+    border-radius: 0.2em;
+}
+
+.kiswahili{
+    margin: 0px auto;
+    width: fit-content;
+}
+
+.kisw{
+    color: #03045e;
+    margin-left: 1px;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+footer{
+    background-color: #e5e5e5;
+    margin: 0px;
+}
+
+.EndFooter a{
+    text-decoration: none;
+    padding: 0px 0.9rem; 
+    color: rgba(0,20,20,0.7); 
+}
+footer p{
+    padding: 1rem 0.9rem; 
+}
+.EndFooter div, footer p{
+    width:fit-content;
+    margin:0px 1rem;
+    color: rgba(0,20,20,0.7);
+    font-size: 0.8rem; 
+
+}
+.EndFooter .div3,.EndFooter .div2{
+margin-left: 10rem;
+}
+.EndFooter{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+nav div span{
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
+    margin: 0px 1rem;
+    display: inline-block;
+    position: relative;
+    top:0.5rem;
+}
+nav div{
+    position: relative;
+    right: -80%;
+    width: fit-content;
+}
+
+
